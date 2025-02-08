@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: #222;
+    color: white;
+}
+
+.hero .btn {
+    background: #ff5722;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.book-list {
+    text-align: center;
+    padding: 20px;
+}
+
+.book {
+    display: inline-block;
+    width: 200px;
+    margin: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.book img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}

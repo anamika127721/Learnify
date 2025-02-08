@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Details</title>
+    <style>
+        body { background-color: black; color: white; text-align: center; padding: 50px; }
+        button { display: block; margin: 10px auto; padding: 10px 20px; font-size: 18px; cursor: pointer; }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const bookTitle = localStorage.getItem("selectedBook");
+            document.getElementById("book-title").innerText = bookTitle;
+        });
+
+        function readNow() { alert("Opening book to read..."); }
+        function buyMe() { alert("Redirecting to purchase..."); }
+        function letsTalk() { alert("Starting discussion about this book..."); }
+    </script>
+</head>
+<body>
+    <h1 id="book-title"></h1>
+    <button onclick="readNow()">Read Now</button>
+    <button onclick="buyMe()">Buy Me</button>
+    <button onclick="letsTalk()">Let's Talk</button>
+</body>
+</html>
