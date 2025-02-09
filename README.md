@@ -4,7 +4,6 @@ LEARNIFY 🎯
 ## Basic Details
 ### Team Name: CodeNova
 
-
 ### Team Members
 - Member 1: Anamika K- NSS College of Engineering
 - Member 2: Abhirami R- NSS College of Engineering
@@ -36,32 +35,17 @@ For Software:
 - Languages used: HTML,CSS,Javasript
 - Tools used: VScode,GitHub
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
-For Software:
+Learnyfy, developed by Team CodeNova (Anamika K and Abhirami R from NSS College of Engineering), is a social platform designed for book lovers to connect, share insights, and discover new books. It allows users to chat with fellow readers, join peer learning groups, and share quotes, thoughts, and photos.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+# Screenshots 
 A place to share your toughts.
 ![Screenshot 2025-02-09 050534](https://github.com/user-attachments/assets/cbeb8cc5-ad3f-45cc-ba29-bbaf4a188712)
 
-![Screenshot2](Add screenshot 2 here with proper name)
 The interface to read and learn.
 ![Screenshot 2025-02-09 050610](https://github.com/user-attachments/assets/c3612f68-9aeb-4de3-b073-1dcfa7cdadaa)
 
-![Screenshot3](Add screenshot 3 here with proper name)
 Here,Discuss with your book buddies!
 ![Screenshot 2025-02-09 050626](https://github.com/user-attachments/assets/754a21cd-b7e0-4a8f-856f-8be31d52d013)
 
@@ -69,11 +53,8 @@ Here,Discuss with your book buddies!
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Video Link](https://youtu.be/4buQRGLNRiU)
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 Anamika K: Coding 
